@@ -20,12 +20,6 @@ O objetivo deste estudo é demonstrar a capacidade de utilizar o **Power BI** pa
 - **Excel/CSV**: Formato de entrada dos dados utilizados para análise.
 - **GitHub**: Repositório para armazenamento do código e dos relatórios gerados.
 
-## **Como Usar**
-
-1. Clone este repositório.
-2. Abra os arquivos de dados disponíveis na pasta `/data`.
-3. Importe os dados para o Power BI e explore os dashboards interativos.
-
 ## **Conclusão**
 
 Este projeto oferece uma análise detalhada de indicadores-chave de desempenho (**KPIs**), utilizando o **Power BI** como uma ferramenta para visualização de dados. Este estudo, facilitaria a compreensão dos padrões de consumo de clientes e otimizaria a gestão da frota.
